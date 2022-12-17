@@ -2,9 +2,9 @@
 
 <br>
 
-<div>  
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Caumaria&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="flex-end" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caumaria&layout=compact&langs_count=16&theme=great-gatsby"/>
+<div style="display: flex">  
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=Caumaria&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caumaria&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 
 <br>
