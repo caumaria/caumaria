@@ -10,7 +10,7 @@
 <br>
 
 <div>
-  <p> Sou completamente apaixonada pela área de tecnologia & games, comecei meus estudos na área de front-end há alguns meses e tem sido muito animador. 
+  <p> Sou completamente apaixonada pela área de tecnologia & games, comecei meus estudos em front-end há alguns meses e tem sido muito animador. 
   Sou autodidata, sempre fui curiosa e atrás de meus interesses, com a programação não será diferente. 
-  Tenho interesse em aprender outras linguagens, mas tudo tem seu tempo, por hora estarei me aventurando por React JS/Typescript.</p>
+  Estarei me aventurando por React JS/Typescript.</p>
 </div>
