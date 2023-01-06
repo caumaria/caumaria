@@ -12,5 +12,5 @@
 <div>
   <p> Sou completamente apaixonada pela área de tecnologia & games, comecei meus estudos em front-end há alguns meses e tem sido muito animador. 
   Sou autodidata, sempre fui curiosa e atrás de meus interesses, com a programação não será diferente. 
-  Estarei me aventurando por React JS/Typescript.</p>
+  Estarei me aventurando com React JS/Typescript por agora.</p>
 </div>
