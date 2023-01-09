@@ -14,7 +14,7 @@
   Estou aprendendo sobre React JS agora e planejo pegar Typescript em seguida.</p>
   <br>
   <h3>Um pokito sobre mim :)</h3>
-  <p>Lá estava euzinha fazendo faculdade de direito e trabalhando em escritório, uns 89% infeliz, quando a programação chamou minha atenção. Eu já estava full de 			cabeça em jogos na blockchain e sempre adorei aprender/investir em crypto, então era de comum praxe dar olhadinhas nos códigos em Solidity e tentar decifrar má fé nos contratos. Comecei a pesquisar sobre programação e, como tenho inglês fluente, a quantidade de informação disponível pra aprender e praticar é enorme e facilita muito!</p>
+  <p>Lá estava euzinha fazendo faculdade de direito e trabalhando em escritório, uns 89% infeliz, quando a programação chamou minha atenção. Eu já estava full de 			cabeça em jogos na blockchain e sempre adorei aprender/investir em crypto, então era de comum praxe dar olhadinhas nos códigos em Solidity e tentar decifrar má fé nos contratos (if voto22t than 13). Comecei a pesquisar sobre programação e, como tenho inglês fluente, a quantidade de informação disponível pra aprender e praticar é enorme e facilita muito!</p>
   <p>Meu tempo livre é inteirinho jogando online, sou competitiva e adoro desafios. Meus jogos preferidos são Ark, Archeage e league of legends. Dinossauros, MMORPG e coisinhas coloridas fazem minha cabeça. Programar pra mim é uma quest da história principal e me traz o mesmo feeling de completar o set mais forte do jogo.</p>
   <p>Quero oportunidades para aprender mais sobre frontend e futuramente outras linguagens, sempre fico curiosa mas tento me manter firme nos estudos que preciso por agora para começar minha jornada pra ser uma Mestre Programadora! (ta, eu paro)</p>
 </div>
