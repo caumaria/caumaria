@@ -2,12 +2,15 @@
 
 <br>
 <div>
-  <p> Sou completamente apaixonada pela área de tecnologia & games, comecei meus estudos em front-end há alguns meses e tem sido muito animador. 
-  Sou autodidata, sempre fui curiosa e atrás de meus interesses, com a programação não será diferente. 
-  Estou aprendendo sobre React JS agora e planejo pegar Typescript em seguida.</p>
-  <br>
-  <h3>Um pokito sobre mim :)</h3>
-  <p>Lá estava euzinha fazendo faculdade de direito e trabalhando em escritório, uns 89% infeliz, quando a programação chamou minha atenção. Eu já estava full de 			cabeça em jogos na blockchain e sempre adorei aprender/investir em crypto, então era de comum praxe dar olhadinhas nos códigos em Solidity e tentar decifrar má fé nos contratos (if voto22t than 13). Comecei a pesquisar sobre programação e, como tenho inglês fluente, a quantidade de informação disponível pra aprender e praticar é enorme e facilita muito!</p>
+  <p>Autodidata em Desenvolvimento web, apaixonada por programação.
+Tenho formação em Front-end pela Alura e estou em constante aprendizado com cursos online para aprofundar-me ainda mais na área.
+
+Ao longo dos meus estudos, adquiri conhecimentos sólidos em HTML, CSS, JS, ReactJS.
+Mantenho meu Github sempre atualizado com projetos pessoais e materiais de estudo. 
+
+Estou em busca de uma oportunidade profissional que permita meu crescimento intelectual, profissional e técnico.
+Sou fluente em inglês, tenho inteligência emocional, pensamento critico, proatividade, organização e muita vontade de desenvolver-me e evoluir ao mesmo tempo que agrego valor ao local de trabalho em que me encontro.</p>
+  
   <p>Meu tempo livre é inteirinho jogando online, sou competitiva e adoro desafios. Meus jogos preferidos são Ark, Archeage e league of legends. Dinossauros, MMORPG e coisinhas coloridas fazem minha cabeça. Programar pra mim é uma quest da história principal e me traz o mesmo feeling de completar o set mais forte do jogo.</p>
   <p>Quero oportunidades para aprender mais sobre frontend e futuramente outras linguagens, sempre fico curiosa mas tento me manter firme nos estudos que preciso por agora para começar minha jornada pra ser uma Mestre Programadora!</p>
 </div>
