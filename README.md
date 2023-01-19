@@ -4,15 +4,12 @@
 <div>
   <p>Autodidata em Desenvolvimento web, apaixonada por programação.
 Tenho formação em Front-end pela Alura e estou em constante aprendizado com cursos online para aprofundar-me ainda mais na área.
+    Ao longo dos meus estudos, adquiri conhecimentos sólidos em HTML, CSS, JS, ReactJS.</p>
 
-Ao longo dos meus estudos, adquiri conhecimentos sólidos em HTML, CSS, JS, ReactJS.
-Mantenho meu Github sempre atualizado com projetos pessoais e materiais de estudo. 
-
-Estou em busca de uma oportunidade profissional que permita meu crescimento intelectual, profissional e técnico.
+<p>Estou em busca de uma oportunidade profissional que permita meu crescimento intelectual, profissional e técnico.
 Sou fluente em inglês, tenho inteligência emocional, pensamento critico, proatividade, organização e muita vontade de desenvolver-me e evoluir ao mesmo tempo que agrego valor ao local de trabalho em que me encontro.</p>
   
   <p>Meu tempo livre é inteirinho jogando online, sou competitiva e adoro desafios. Meus jogos preferidos são Ark, Archeage e league of legends. Dinossauros, MMORPG e coisinhas coloridas fazem minha cabeça. Programar pra mim é uma quest da história principal e me traz o mesmo feeling de completar o set mais forte do jogo.</p>
-  <p>Quero oportunidades para aprender mais sobre frontend e futuramente outras linguagens, sempre fico curiosa mas tento me manter firme nos estudos que preciso por agora para começar minha jornada pra ser uma Mestre Programadora!</p>
 </div>
 <br>
 <br>
