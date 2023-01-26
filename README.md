@@ -2,7 +2,7 @@
 
 <div>
   <p>Autodidata em Desenvolvimento web, apaixonada por programação.
-Tenho formação em Front-end pela Alura e estou em constante aprendizado com cursos online para aprofundar-me ainda mais na área.
+Tenho formação em Front-end pela Alura e estou em constante aprendizado com cursos online e artigos profissionais para aprofundar-me ainda mais na área.
     Ao longo dos meus estudos, adquiri conhecimentos sólidos em HTML, CSS, JS, ReactJS.</p>
 
 <p>Estou em busca de uma oportunidade profissional que permita meu crescimento intelectual, profissional e técnico.
