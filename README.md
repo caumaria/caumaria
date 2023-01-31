@@ -1,4 +1,4 @@
-<h3>Hi hi there, I'm Cau.</h3> 
+<h3>Hi hi there, I'm Cau. 🙋🏻‍♀️</h3> 
 <br>
 • 💻 Self-taught Front-end Developer <br>
 • 🌱 I'm currently learning <code>ReactJS</code> and practicing more JS <br>
