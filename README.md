@@ -1,9 +1,9 @@
 <h3>Hi hi there, I'm Cau. 🙋🏻‍♀️</h3> 
 <br>
-• 💻 Self-taught Front-end Developer <br>
-• 🌱 I'm currently learning <code>ReactJS</code> and practicing more JS <br>
-• 💬 We can chat about <code>HTML</code>, <code>CSS</code>, <code>JS</code> and <code>ReactJS</code>! <br>
-• ✉️ How to reach me: cau.ugolini@gmail.com <br>
+💻 Self-taught Front-end Developer <br>
+🌱 I'm currently learning <code>ReactJS</code> and practicing more JS <br>
+💬 We can chat about <code>HTML</code>, <code>CSS</code>, <code>JS</code> and <code>ReactJS</code>! <br>
+✉️ How to reach me: cau.ugolini@gmail.com <br>
 <br>
 <hr>
   
