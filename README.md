@@ -13,12 +13,12 @@
 
 Salve salve, eu sou a Cau. 🙋🏻‍♀️
 
-💻 Desenvolvedora Front-end Autodidata
-🌱 Estou aprendendo ReactJS e praticando JS
-☕ Tecnologias: HTML, CSS, JS, ReactJS
-💬 Inglês fluente
-✉️ Contato: cau.ugolini@gmail.com
-🐱 github.com/caumaria
+💻 Desenvolvedora Front-end Autodidata <br>
+🌱 Estou aprendendo ReactJS e praticando JS <br>
+☕ Tecnologias: HTML, CSS, JS, ReactJS <br>
+💬 Inglês fluente <br>
+✉️ Contato: cau.ugolini@gmail.com <br>
+🐱 github.com/caumaria <br>
 
 Em busca de uma oportunidade profissional que permita meu crescimento intelectual, social e técnico.
 Tenho Inteligência emocional, pensamento critico e proatividade. Apreço por resolver problemas e inventar soluções. Codando priorizo por organização, código limpo e claro. (para humanos, rs)
