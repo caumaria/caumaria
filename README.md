@@ -11,15 +11,17 @@
 
 <hr>
 
-Salve salve dev, Cau aqui!
+Salve salve, eu sou a Cau. 🙋🏻‍♀️
 
-Autodidata em Desenvolvimento web, apaixonada por programação.
-Estou em constante aprendizado com cursos online e artigos profissionais para aprofundar-me ainda mais na área.
-Ao longo dos meus estudos, adquiri conhecimentos sólidos em HTML, CSS, JS, ReactJS.
+💻 Desenvolvedora Front-end Autodidata
+🌱 Estou aprendendo ReactJS e praticando JS
+☕ Tecnologias: HTML, CSS, JS, ReactJS
+💬 Inglês fluente
+✉️ Contato: cau.ugolini@gmail.com
+🐱 github.com/caumaria
 
-Estou em busca de uma oportunidade profissional que permita meu crescimento intelectual, profissional e técnico.
-Sou fluente em inglês, tenho inteligência emocional, pensamento critico, proatividade, organização e muita vontade de me desenvolver junto ao local em que me encontro.
-
+Em busca de uma oportunidade profissional que permita meu crescimento intelectual, social e técnico.
+Tenho Inteligência emocional, pensamento critico e proatividade. Apreço por resolver problemas e inventar soluções. Codando priorizo por organização, código limpo e claro. (para humanos, rs)
   
 
 
