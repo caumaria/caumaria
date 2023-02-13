@@ -23,5 +23,9 @@ Salve salve, eu sou a Cau. 🙋🏻‍♀️
 Em busca de uma oportunidade profissional que permita meu crescimento intelectual, social e técnico.
 Tenho Inteligência emocional, pensamento critico e proatividade. Apreço por resolver problemas e inventar soluções. Codando priorizo por organização, código limpo e claro. (para humanos, rs)
   
+<hr>
+DOING:::::::
+
+Ecommerce product page
 
 
