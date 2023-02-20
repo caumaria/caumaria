@@ -26,6 +26,8 @@ Tenho Inteligência emocional, pensamento critico e proatividade. Apreço por re
 <hr>
 DOING:::::::
 
-Ecommerce product page
+Ecommerce product page(trying kkkk)
+
+
 
 
