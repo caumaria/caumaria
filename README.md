@@ -22,12 +22,18 @@ Salve salve, eu sou a Cau. 🙋🏻‍♀️
 
 Em busca de uma oportunidade profissional que permita meu crescimento intelectual, social e técnico.
 Tenho Inteligência emocional, pensamento critico e proatividade. Apreço por resolver problemas e inventar soluções. Codando priorizo por organização, código limpo e claro. (para humanos, rs)
+<br>
+ 
   
 <hr>
-DOING:::::::
-studying basics
-chatGPT is helping SO much with my study!
-Ecommerce product page
+DOING:::::::<br>
+studying basics<br>
+chatGPT is helping SO much with my study!<br>
+Ecommerce product page<br>
+Im trying to focus on my knowledge adquisition and really learning to code w JS, all this news about layoffs and few shortbacks r freaking me out XD
+so im just focusing in learning :)
+<br>
+Fighting! 
 
 
 
