@@ -25,8 +25,9 @@ Tenho Inteligência emocional, pensamento critico e proatividade. Apreço por re
   
 <hr>
 DOING:::::::
-
-Ecommerce product page(trying kkkk)
+studying basics
+chatGPT is helping SO much with my study!
+Ecommerce product page
 
 
 
