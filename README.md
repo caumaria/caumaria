@@ -30,8 +30,7 @@ DOING:::::::<br>
 studying basics<br>
 chatGPT is helping SO much with my study!<br>
 Ecommerce product page<br>
-Im trying to focus on my knowledge adquisition and really learning to code w JS, all this news about layoffs and few shortbacks r freaking me out XD
-so im just focusing in learning :)
+
 <br>
 Fighting! 
 
