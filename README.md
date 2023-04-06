@@ -28,8 +28,8 @@ Codando priorizo por organização, código limpo e claro.
   
 <hr>
 DOING:::::::<br>
-Well, just started making a simples animated portfolio card :)<br>
-im having a lot of fun building splash screen and transitions<br>
+Well, just started making a simple animated portfolio card :)<br>
+im having a lot of fun building splash screens and transitions<br>
 i hope next week to start animating the home page :)<br>
 
 
