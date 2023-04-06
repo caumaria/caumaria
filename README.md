@@ -28,12 +28,11 @@ Codando priorizo por organização, código limpo e claro.
   
 <hr>
 DOING:::::::<br>
-Well, for now im practicing JS in freecodecamp website, cuz I felt that my basic logic knowledge needed attention, so for now i'll worry about learning and learning >< <br>
-I intent to finish the course to have a good base of algorithms and data structure
-Then I'll focus on finishing my product page, my agenda app and my portfolio.
-COMING: react/typescript 
+Well, just started making a simples animated portfolio card :)<br>
+im having a lot of fun building splash screen and transitions<br>
+i hope next week to start animating the home page :)<br>
 
-Im just starting :3
+
 <br>
 Fighting! 
 
