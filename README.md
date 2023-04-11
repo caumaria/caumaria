@@ -5,6 +5,8 @@
 💬 We can chat about <code>ReactJS</code>, <code>JS</code>, <code>Styled Components</code>, <code>SCSS</code>, <code>CSS</code>, and <code>HTML</code> <br>
 ✉️ How to reach me: cau.ugolini@gmail.com <br>
 <br>
+Next step: typescript
+<br>
 <hr>
   
 🟢🟢🟢 OPEN TO WORK
@@ -15,7 +17,7 @@ Salve salve, eu sou a Cau. 🙋🏻‍♀️
 
 💻 Desenvolvedora Front-end Autodidata <br>
 🌱 Estou aprendendo ReactJS e praticando JS <br>
-☕ Tecnologias: HTML, CSS, JS, ReactJS <br>
+☕ Tecnologias: ReactJS, JS, Styled Components, SCSS, CSS, HTML <br>
 💬 Inglês fluente <br>
 ✉️ Contato: cau.ugolini@gmail.com <br>
 🐱 github.com/caumaria <br>
