@@ -2,7 +2,7 @@
 <br>
 💻 Self-taught Front-end Developer <br>
 🌱 I'm currently learning <code>ReactJS</code> and practicing more JS <br>
-💬 We can chat about <code>HTML</code>, <code>CSS</code>, <code>JS</code> and <code>ReactJS</code>! <br>
+💬 We can chat about <code>ReactJS</code>, <code>JS</code>, <code>Styled Components</code>, <code>SCSS</code>, <code>CSS</code>, and <code>HTML</code> <br>
 ✉️ How to reach me: cau.ugolini@gmail.com <br>
 <br>
 <hr>
