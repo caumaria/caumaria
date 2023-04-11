@@ -28,9 +28,12 @@ Codando priorizo por organização, código limpo e claro.
   
 <hr>
 DOING:::::::<br>
-Well, just started making a simple animated portfolio card :)<br>
-im having a lot of fun building splash screens and transitions<br>
-i hope next week to start animating the home page :)<br>
+<br>
+Well, just started making a animated portfolio card, you can check it out in the repositories page<br>
+and then I've realized that I dont have any cool projects to show in my SO COOL ANIMATED portfolio ;-; mybad <br>
+but Im almost finished with the main concept of the website, so I believe I can soon start some cool new apps :3 <br>
+<br>
+
 
 
 <br>
