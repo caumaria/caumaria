@@ -1,7 +1,7 @@
 <h3>Hi hi there, I'm Cau. 🙋🏻‍♀️</h3> 
 <br>
 💻 Self-taught Front-end Developer <br>
-🌱 I'm currently learning <code>ReactJS</code> and practicing more JS <br>
+🌱 I'm currently learning <code>Next JS</code> and Typescript<br>
 💬 We can chat about <code>ReactJS</code>, <code>JS</code>, <code>Styled Components</code>, <code>SCSS</code>, <code>CSS</code>, and <code>HTML</code> <br>
 ✉️ How to reach me: cau.ugolini@gmail.com <br>
 <br>
@@ -16,7 +16,7 @@ Next step: typescript
 Salve salve, eu sou a Cau. 🙋🏻‍♀️
 
 💻 Desenvolvedora Front-end Autodidata <br>
-🌱 Estou aprendendo ReactJS e praticando JS <br>
+🌱 Estou aprendendo Next Js e typescript <br>
 ☕ Tecnologias: ReactJS, JS, Styled Components, SCSS, CSS, HTML <br>
 💬 Inglês fluente <br>
 ✉️ Contato: cau.ugolini@gmail.com <br>
