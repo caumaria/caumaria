@@ -35,9 +35,10 @@ Well, just started making a animated portfolio card, you can check it out in the
 and then I've realized that I dont have any cool projects to show in my SO COOL ANIMATED portfolio ;-; mybad <br>
 but Im almost finished with the main concept of the website, so I believe I can soon start some cool new apps :3 <br>
 <br>
+<br>
 bixo do ceu, arrumei um teste de JAVA pra fzr até sexta-feira.<br>
 Eu só tenho que aprender JAVA até sexta-feira. XD <br>
-Espero pegar uma boa base de rede/sistemas, java e banco de dados. <br>
+Espero pegar uma boa base de rede/sistemas, java e banco de dados. Quero ter um melhor entendimento dos projetos além do front-end :) <br>
 
 
 
