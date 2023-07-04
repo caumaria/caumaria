@@ -1,30 +1,24 @@
-<h3>Hi hi there, I'm Cau. 🙋🏻‍♀️</h3> 
-<br>
-💻 Self-taught Front-end Developer Jr. <br>
-🌱 I'm currently learning <code>Next JS</code> and Typescript<br>
-💬 We can chat about <code>ReactJS</code>, <code>JS</code>, <code>Styled Components</code>, <code>SCSS</code>, <code>CSS</code>, and <code>HTML</code> <br>
-✉️ How to reach me: cau.ugolini@gmail.com <br>
-<br>
->>> I'm currently looking for a Front-end developer Junior job :3 
-<br>
-<hr>
-  
-🟢🟢🟢 OPEN TO WORK
+# Hi there, I'm Cau. 🙋🏻‍♀️
 
-<hr>
+💻 Self-taught Front-end Developer <br>
+🌱 Currently learning Typescript <br>
+ <br>
+🕹️ Primary Techs:  ReactJS, JS, styled components, sass, css, html, git, github <br>
+🕹️ Secondary Techs: NextJs, NodeJs, Typescript <br>
+ <br> 
+💬 Fluent in English/Portuguese <br>
+ <br>
+ <br>
+• • • 🟢 OPEN TO WORK <br>
+ <br>
+  I’m searching for a junior level position as a front-end developer, where I can utilize my skills to create an amazing product with cool design &  user experience.  <br>
+ <br>
+  The three strongest driving forces within me are curiosity, delight, and the aspiration to achieve something remarkable. My goal is to create exceptional web experiences. <br>
+ <br>
+  I am ready to contribute to a dynamic team that shares my dedication and passion. I am eager to work with a team that can mentor and guide me in my professional growth. I strive to exceed expectations and stay updated with industry trends. <br>
+ <br>
+  Let's work together to make a lasting impact. :)
 
-Salve salve, eu sou a Cau. 🙋🏻‍♀️
- 
-Em busca de uma primeira oportunidade profissional que permita meu crescimento intelectual, social e técnico.<br>
-Tenho Inteligência emocional, pensamento critico, proatividade e apreço por resolver problemas. <br>
-
-💬 Inglês fluente <br>
-<br>
-  
-<hr>
-
-<br>
-Fighting! 
 
 
 
