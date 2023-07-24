@@ -1,7 +1,7 @@
 # Hi there, I'm Cau. 🙋🏻‍♀️
 
 💻 Self-taught Front-end Developer <br>
-🌱 Software enginner Student - 2023 <br>
+🌱 Software enginner Student - 06.2023 <br>
  <br>
 🕹️ Primary Techs:  ReactJS, JS, styled components, sass, css, html, git, github <br>
 🕹️ Secondary Techs: NextJs, NodeJs, Typescript <br>
