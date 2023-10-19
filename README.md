@@ -8,8 +8,6 @@
  <br> 
 💬 Fluent in English/Portuguese <br>
  <br>
- Now: Im kinda off cuz im learning Python and CC fundamentals for college.<br>
- I'm enjoying this new content and learning how computers work is organizing my programming skills and ideas~~ <br>
  <br>
 • • • 🟢 OPEN TO WORK <br>
  <br>
