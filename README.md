@@ -4,7 +4,7 @@
 🌱 Software enginner Student - 06.2023 - 1st semester(1/8) <br>
  <br>
 🕹️ Primary Techs:  ReactJS, JS, styled components, sass, css, html, git, github <br>
-🕹️ Secondary Techs: NextJs, NodeJs, Typescript <br>
+🕹️ Secondary Techs: NextJs, NodeJs, Typescript, Python(learning the basics) <br>
  <br> 
 💬 Fluent in English/Portuguese <br>
  <br>
