@@ -4,7 +4,7 @@
 🌱 Software enginner Student - 06.2023 - 1st semester(1/8) <br>
  <br>
 🕹️ Primary Techs:  ReactJS, JS, styled components, sass, css, html, git, github <br>
-🕹️ Secondary Techs: NextJs, NodeJs, Typescript, Python(learning the basics) <br>
+🕹️ Secondary Techs: NextJs, NodeJs, Typescript, Python(learning the basics), SCRUM <br>
  <br> 
 💬 Fluent in English/Portuguese <br>
  <br>
@@ -18,6 +18,15 @@
   I am ready to contribute to a dynamic team that shares my dedication and passion. I am eager to work with a team that can mentor and guide me in my professional growth. I strive to exceed expectations and stay updated with industry trends. <br>
  <br>
   Let's work together to make a lasting impact. :)
+
+  _____________________________________
+  <br>
+  Estou procurando uma posição de nível júnior como desenvolvedora front-end, onde posso utilizar minhas habilidades com o intuito de criar produtos incríveis com design e experiência do usuário excelentes.<br>
+<br>
+Meus três grandes motivadores são a curiosidade, o prazer e a aspiração de alcançar algo notável. Meu objetivo é criar experiências excepcionais na web.<br>
+<br>
+Estou ansiosa para trabalhar com profissionais que possam me guiar e orientar no meu crescimento profissional.<br>
+  
 
 
 
