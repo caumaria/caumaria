@@ -11,7 +11,7 @@
  <br>
 • • • 🟢 OPEN TO WORK <br>
  <br>
-  I’m searching for a junior level position as a front-end developer, where I can utilize my skills to create an amazing product with cool design &  user experience.  <br>
+  I’m searching for a junior level position as a software developer.  <br>
  <br>
   The three strongest driving forces within me are curiosity, delight, and the aspiration to achieve something remarkable. My goal is to create exceptional web experiences. <br>
  <br>
@@ -21,7 +21,7 @@
 
   _____________________________________
   <br>
-  Estou procurando uma posição de nível júnior como desenvolvedora front-end, onde posso utilizar minhas habilidades com o intuito de criar produtos incríveis com design e experiência do usuário excelentes.<br>
+  Estou procurando uma posição de nível júnior como desenvolvedora de software.<br>
 <br>
 Meus três grandes motivadores são a curiosidade, o prazer e a aspiração de alcançar algo notável. Meu objetivo é criar experiências excepcionais na web.<br>
 <br>
