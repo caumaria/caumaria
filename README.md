@@ -2,6 +2,7 @@
 
 💻 Self-taught Front-end Developer <br>
 🌱 Software enginner Student - 06.2023 - 1st semester(1/8) <br>
+🌐 Brazil <br>
  <br>
 🕹️ Primary Techs:  ReactJS, JS, Typescript, NextJs, NodeJs, MySQL, express, styled components, sass, css, HTML, Git, Github<br>
 🕹️ Secondary Techs: Testing with Jest, Python, AWS (certification in process) . <br> 
