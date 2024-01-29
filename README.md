@@ -4,7 +4,7 @@
 🌱 Software enginner Student - (2/8) <br>
 🌐 Brazil <br>
  <br>
-🕹️ Primary Techs:  ReactJS, JS, Typescript, NextJs, NodeJs, MySQL, express, styled components, sass, css, HTML, Git, Github<br>
+🕹️ Primary Techs:  ReactJS, JS, Typescript, NextJs, NodeJs, MySQL, express,  RESTful API, styled components, sass, css, HTML, Git, Github<br>
 🕹️ Secondary Techs: Testing with Jest, Python, AWS (certification in process) . <br> 
  <br> 
 💬 Fluent in English/Portuguese <br>
