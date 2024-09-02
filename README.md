@@ -16,7 +16,7 @@ Meu objetivo é criar experiências web excepcionais ♥<br>
 • MySQL<br>
 • CSS, sass, less, styled components<br>
 • HTML<br>
-• Vtex
+• Vtex<br>
 • Git, Github<br>
 • AWS (certification in progress)<br>
 • Python, Flask<br>
