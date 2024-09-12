@@ -1,7 +1,7 @@
 # Oi, eu sou a Cau. 🙋🏻‍♀️ <br>
 <br>
 Atualmente trabaho como desenvolvedora front-end na Avanti! Atuo no time de implantação, temos a responsabilidade de entregar as novas lojas contratadas. <br>
-Utilizo no meu dia a dia React, Typescript, Vtex e css/sass. <br>
+Utilizo no meu dia a dia React, Typescript, Vtex, css/sass e graphQL. <br>
 Tenho afinidade por projetar e implementar interfaces, desenvolvimento de layouts responsivos e na integração fluida de APIs para uma eficiente recuperação e exibição de dados. 
 Meu foco contínuo em aprendizado está em aprimorar minhas habilidades na construção de aplicativos escaláveis usando frameworks e bibliotecas modernas.<br>
 <br>
