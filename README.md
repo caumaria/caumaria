@@ -1,28 +1,29 @@
 # Oi, eu sou a Cau. 🙋🏻‍♀️ <br>
 <br>
-Atualmente trabaho como desenvolvedora front-end na Avanti! Atuo no time de implantação, temos a responsabilidade de entregar as novas lojas contratadas. <br>
-Utilizo no meu dia a dia React, Typescript, Vtex, css/sass e graphQL. <br>
-Tenho afinidade por projetar e implementar interfaces, desenvolvimento de layouts responsivos e na integração fluida de APIs para uma eficiente recuperação e exibição de dados. 
-Meu foco contínuo em aprendizado está em aprimorar minhas habilidades na construção de aplicativos escaláveis usando frameworks e bibliotecas modernas.<br>
+Atuo hoje como Desenvolvedora Front-end/Web/E-commerce no time de Squads, sendo a única responsável pelo desenvolvimento de dois grandes projetos. No dia a dia, tenho autonomia para propor soluções técnicas, implementar melhorias e garantir entregas com impacto direto nos resultados do negócio.<br>
 <br>
-Meu objetivo é criar experiências web excepcionais ♥<br>
+Ao longo da minha - curta - trajetória, pude assumir responsabilidades técnicas em momentos críticos e também apoiar colegas de equipe. Concomitante, sigo aprendendo diariamente — não hesito em buscar apoio em meus líderes ou trocar experiências com outros profissionais. Prezo por ownership e proatividade, buscando sempre criar aplicações escaláveis, acessíveis e centradas na experiência do usuário.<br>
 <br>
-🕹️ Tecnologias<br>
-• Javascript, Typescript<br>
-• React, NextJs<br>
-• Redux, ContextAPI<br>
-• Node JS, express<br>
-• Jest<br>
-• MySQL<br>
-• CSS, sass, less, styled components<br>
-• HTML<br>
-• Vtex<br>
-• Git, Github<br>
-• AWS (certification in progress)<br>
-• Python, Flask<br>
+Lojas implementadas em Vtex IO:<br>
+• Lindt
+• Crocs<br>
+• Docol<br>
+• Toolbox<br>
+• SV Elétrica<br>
+• Anyany<br>
+• Recco<br>
+E ajustes pontuais em demais projetos.<br>
+<br>
+Minhas principais stacks incluem:<br>
+• VTEX<br>
+• JavaScript, TypeScript<br>
+• React<br>
+• GraphQL<br>
+• Node.js<br>
+• css, sass, less, styled components, tailwind<br>
 <br>
 💬 Inglês fluente<br>
-
+<br>
 <hr>
 
 💬 Fluent in English/Portuguese<br>
